@@ -8,7 +8,6 @@ programming as a Mechatronics Engineering student.
 |---------|-------------|---------------|
 | [Calculator](./Calculator/calculator.cpp) | Console calculator with +,-,*,/ | Switch, Do-While, Loop, Error Handling |
 | [Number-Guessing-Game](./Number-Guessing-Game/number_guessing_game.cpp) | Guess the no with limited tries |
-| [Basic-Menu-App](./BasicMenuApp/basic_menu_app.cpp)|
 ## Skills Practiced
 - Switch statements
 - Do-while & while loops
