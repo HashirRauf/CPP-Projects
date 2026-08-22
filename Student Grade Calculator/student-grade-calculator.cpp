@@ -39,7 +39,7 @@ int main()
         cout << "Do you want to Calculate Again(y/n): " << endl;
         cin>>choice;
 
-    } while (choice == 'y' || choice'Y');
+    } while (choice == 'y' || choice=='Y');
 
     return 0;
 }
