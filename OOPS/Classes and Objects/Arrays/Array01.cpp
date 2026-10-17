@@ -19,9 +19,9 @@ void shop::init_counter(void)
 }
 void shop::get_things(void)
 {
-	cout << "Enter ID of item " << counter + 1 << ": ";
+	cout << "Enter ID of item: " << counter + 1 << ": ";
 	cin >> itemID[counter];
-	cout << "Enter Price of item " << counter + 1 << " : ";
+	cout << "Enter Price of item: " << counter + 1 << " : ";
 	cin >> itemPrice[counter];
 	counter++;
 }
